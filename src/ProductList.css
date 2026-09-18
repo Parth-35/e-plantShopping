@@ -214,7 +214,7 @@ body {
   .product-button:hover {
     background-color: #45a049;
   }
-  
+  .product-button:disabled,
   .product-button.added-to-cart {
     background-color: grey; /* Grey when product is added */
   }
